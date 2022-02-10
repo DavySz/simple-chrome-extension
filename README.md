@@ -2,7 +2,7 @@
   Google Chrome Will Smith Extension
 </h1>
 
-## 💻 Projeto
+## 💻 Project
 <p>This project was developed simply for fun and out of curiosity I hope you enjoy it as I do.</p>
 ---
 
