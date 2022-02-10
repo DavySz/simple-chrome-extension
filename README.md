@@ -3,19 +3,19 @@
 </h1>
 
 ## 💻 Projeto
-This project was developed simply for fun and out of curiosity I hope you enjoy it as I do.
+<p>This project was developed simply for fun and out of curiosity I hope you enjoy it as I do.</p>
 ---
 
-## 💻 Before
+## :expressionless: Before
 ---
 <p align="center">
   <img alt="before" src=".github/before.png" width="100%">
 </p>
 
-## 💻 After
+## :joy: After
 ---
 <p align="center">
   <img alt="before" src=".github/after.png" width="100%">
 </p>
 
-Feito com ♥ by Davy de Souza :wave:
+<p align="center">Feito com ♥ by Davy de Souza :wave:</p>
