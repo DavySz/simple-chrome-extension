@@ -1,0 +1,17 @@
+{
+    "name": "ILoveWillSmith",
+    "description": "Build an Extension!",
+    "version": "1.0",
+    "author": "davysz",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "Content.js"
+            ]
+        }
+    ]
+}
