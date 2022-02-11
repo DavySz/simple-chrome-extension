@@ -3,7 +3,7 @@
 </h1>
 
 ## 💻 Project
-<p>This project was developed simply for fun and out of curiosity I hope you enjoy it as I do.</p>
+<p>This project was developed simply for fun and curiosity, I hope you like it as much as I do.</p>
 ---
 
 ## :expressionless: Before
